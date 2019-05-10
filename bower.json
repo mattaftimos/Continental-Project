@@ -1,0 +1,28 @@
+{
+<<<<<<< HEAD
+  "name": "HRdash",
+=======
+  "name": "Dashboard",
+>>>>>>> 6d0cb4593675542b28671e62b3c241b222376048
+  "homepage": "https://github.com/nexus671/Swiper",
+  "authors": [
+    "Ahmane <acurrymuir@gmail.com>"
+  ],
+<<<<<<< HEAD
+  "description": "[",
+=======
+  "description": "",
+>>>>>>> 6d0cb4593675542b28671e62b3c241b222376048
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
